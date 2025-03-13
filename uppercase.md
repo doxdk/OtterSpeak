@@ -1,6 +1,6 @@
 # OtterSpeak: Uppercase Cipher 🦦🔐
 
-Welcome to **OtterSpeak's Uppercase Cipher**! This encryption system allows you to transform uppercase letters into a secret, custom-coded language. It's a fun way to keep your messages hidden from prying eyes!
+Welcome to **OtterSpeak's Uppercase Cipher**! This encryption system allows you to transform uppercase letters into a secret, custom-coded language. It's a fun way to keep your messages hidden from prying eyes.
 
 ## 🔑 The Cipher Map
 Each uppercase letter is replaced with a specific letter according to the following mapping:
